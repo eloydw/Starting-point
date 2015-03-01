@@ -1,0 +1,17 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"../../main.scss",
+		"../../libs/_fontplate.scss",
+		"../../_settings.scss",
+		"../../_mixin.scss",
+		"../../_helper.scss",
+		"../../_base.scss",
+		"../../libs/_config.scss",
+		"../../libs/functions/_typography.scss"
+	],
+	"sourcesContent": [],
+	"mappings": ";EO0PI,ADzLoB;EC0LpB,ADxLoB;ECyLpB,ADxLoB;EC0LpB,AAAK;EACL,AAA4E;;ANlPhF;EACI,AAAW;;AAIf;EAEQ,AAAoB;EAExB,AKiFoB;EC6FhB,AAAgB;EAXhB,AAAW;EN/JX,AAAwB;EMkPxB,AAAM;;AN7Od;EACI,AAAW;;AAOf,AAAI,AAAI,AAAI,AAAI,AAAI;EAMhB,AK2DoB;ECuIpB,AD1JoB;EC2JpB,AD3JoB;EC4JpB,AD5JoB;EC6JpB,AD7JoB;EC8JpB,AD9JoB;;ALnCnB,AAAM,AAAI,AAAI,AAAI,AAAI,AAAG;EAC1B,AAAa;EACb,AAAY;EAER,AKsDgB;;ALhDxB;EM4GQ,AAAyB;EACzB,AAAyB;EACzB,AAAyB;;AN9GjC;EM4GQ,AAAyB;EACzB,AAAyB;EACzB,AAAyB;;AN9GjC;EM4GQ,AAAyB;EACzB,AAAyB;EACzB,AAAyB;;AN9GjC;EM4GQ,AAAyB;EACzB,AAAyB;EACzB,AAAyB;;AN9GjC;EM4GQ,AAAyB;EACzB,AAAyB;EACzB,AAAyB;;AN9GjC;EM4GQ,AAAyB;EACzB,AAAyB;EACzB,AAAyB;;AN9GjC;EM4GQ,AAAyB;EACzB,AAAyB;EACzB,AAAyB;;AFhKjC,AACA",
+	"names": []
+}

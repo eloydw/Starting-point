@@ -1,0 +1,97 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, ins, kbd, q, s, samp,
+small, strike, h6, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+@font-face {
+  font-family: sans-serif;
+  font-weight: Normal;
+  font-style: Normal;
+  src: url(".eot");
+  src: url(".eot?#iefix") format("embedded-opentype"), url(".woff") format("woff"), url(".ttf") format("truetype"), url(".otf") format("opentype"), url(".svg#sans-serif") format("svg"); }
+
+html {
+  font-size: 100%; }
+
+body {
+  background-color: transparent;
+  color: #1e1e1e;
+  text-rendering: optimizeLegibility;
+  word-wrap: break-word;
+  -webkit-font-smoothing: antialiased;
+  font: Normal 100%/1.5 sans; }
+
+.debug {
+  font-size: 16px; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #222222;
+  font-feature-settings: "kern" on, "liga" off, "calt" off, "dlig";
+  -moz-font-feature-settings: "kern" on, "liga" off, "calt" off, "dlig";
+  -webkit-font-feature-settings: "kern" on, "liga" off, "calt" off, "dlig";
+  -ms-font-feature-settings: "kern" on, "liga" off, "calt" off, "dlig";
+  -o-font-feature-settings: "kern" on, "liga" off, "calt" off, "dlig"; }
+
+.big, h1, h2, h3, h4, p, .notes {
+  line-height: 1;
+  margin-top: 0;
+  background-color: rgba(255, 208, 90, 0.7); }
+
+.big {
+  font-size: 178px;
+  line-height: 240px;
+  margin-bottom: 24px; }
+
+h1 {
+  font-size: 110px;
+  line-height: 168px;
+  margin-bottom: 24px; }
+
+h2 {
+  font-size: 68px;
+  line-height: 120px;
+  margin-bottom: 24px; }
+
+h3 {
+  font-size: 42px;
+  line-height: 96px;
+  margin-bottom: 24px; }
+
+h4 {
+  font-size: 26px;
+  line-height: 96px;
+  margin-bottom: 24px; }
+
+p {
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 24px; }
+
+.notes {
+  font-size: 10px;
+  line-height: 16px;
+  margin-bottom: 24px; }
